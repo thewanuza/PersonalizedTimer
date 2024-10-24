@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map PersonalizedTimer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PersonalizedTimer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+PersonalizedTimer	KEYWORD2
+set	KEYWORD2
+start	KEYWORD2
+isTriggered	KEYWORD2
+stop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
